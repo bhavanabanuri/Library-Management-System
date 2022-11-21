@@ -1,2 +1,2 @@
-# Library-Management-System
-Library management system using java
+# Java-project
+A Book Purchasing Application made in Java
